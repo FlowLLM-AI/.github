@@ -5,7 +5,8 @@
 <p align="center"><strong>Open-source tools for agent workflows and financial research.</strong></p>
 
 <p align="center">
-  <a href="https://flowllm-ai.github.io/AxonX/en/">AxonX Docs</a> ·
+  <a href="https://github.com/FlowLLM-AI/AxonX">AxonX</a> ·
+  <a href="https://flowllm-ai.github.io/AxonX/en/">Documentation</a> ·
   <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=en">Try AxonX Studio</a> ·
   <a href="https://github.com/FlowLLM-AI/AxonX/discussions">Community</a> ·
   <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README_ZH.md">简体中文</a>
@@ -13,6 +14,19 @@
 
 We build tools for developers and researchers to turn ideas into executable workflows,
 connect agents to research capabilities, and inspect the results.
+
+## Start here
+
+| Your goal | First step |
+| --- | --- |
+| Explore the research workspace without installing anything | [Try AxonX Studio](https://flowllm-ai.github.io/AxonX/playground/?lang=en) with simulated data and execution. |
+| Run quantitative research locally | Follow the [AxonX quick start](https://flowllm-ai.github.io/AxonX/en/getting-started/quickstart); install research plugins for your tasks. |
+| Connect a coding agent to research tasks | Load the [AxonX Skill](https://github.com/FlowLLM-AI/AxonX/blob/main/skills/axonx/SKILL.md), then follow the [agent integration guide](https://flowllm-ai.github.io/AxonX/en/agent/external). |
+| Add financial search and data tools to an MCP client | Start with [Finance-MCP setup](https://github.com/FlowLLM-AI/finance-mcp#-quick-start). |
+| Build and serve your own LLM workflows | Start with the [FlowLLM quick start](https://github.com/FlowLLM-AI/flowllm/blob/main/docs/en/quick_start.md). |
+
+**Latest release:** [AxonX v0.1.0](https://github.com/FlowLLM-AI/AxonX/releases/tag/v0.1.0)
+(October 4, 2026), with research Tasks, execution tracking, artifact lineage, and Studio.
 
 ## Why FlowLLM-AI?
 
@@ -28,9 +42,6 @@ connect agents to research capabilities, and inspect the results.
 | **[AxonX](https://github.com/FlowLLM-AI/AxonX)** | An agent-native quantitative research harness with plugin-based Tasks, traceable artifacts, and a browser Studio. | [Quick start](https://flowllm-ai.github.io/AxonX/en/getting-started/quickstart) · [Agent integration](https://flowllm-ai.github.io/AxonX/en/agent/external) |
 | **[FlowLLM](https://github.com/FlowLLM-AI/flowllm)** | A configuration-driven LLM application framework for composing workflows and serving Jobs over HTTP or MCP. | [Quick start](https://github.com/FlowLLM-AI/flowllm/blob/main/docs/en/quick_start.md) · [Development skill](https://github.com/FlowLLM-AI/flowllm/blob/main/skills/flowllm_dev/SKILL.md) |
 | **[Finance-MCP](https://github.com/FlowLLM-AI/finance-mcp)** | A financial research toolkit and MCP server built on FlowLLM, integrating search, crawling, and financial data. | [Setup and tools](https://github.com/FlowLLM-AI/finance-mcp#-quick-start) |
-
-**Choose a starting point:** use AxonX for quantitative experiments, Finance-MCP for financial research tools,
-or FlowLLM to build your own LLM application workflows.
 
 ## How the projects fit together
 

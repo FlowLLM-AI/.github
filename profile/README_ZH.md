@@ -5,13 +5,27 @@
 <p align="center"><strong>面向 Agent 工作流与金融研究的开源工具。</strong></p>
 
 <p align="center">
-  <a href="https://flowllm-ai.github.io/AxonX/zh/">AxonX 文档</a> ·
+  <a href="https://github.com/FlowLLM-AI/AxonX">AxonX</a> ·
+  <a href="https://flowllm-ai.github.io/AxonX/zh/">文档</a> ·
   <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=zh">体验 AxonX Studio</a> ·
   <a href="https://github.com/FlowLLM-AI/AxonX/discussions">社区交流</a> ·
   <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README.md">English</a>
 </p>
 
 我们为开发者和研究者构建工具，将想法转化为可执行的工作流，让 Agent 调用研究能力，并帮助研究者检查结果。
+
+## 从这里开始
+
+| 你的目标 | 第一步 |
+| --- | --- |
+| 无需安装，先了解研究工作区 | [体验 AxonX Studio](https://flowllm-ai.github.io/AxonX/playground/?lang=zh)，使用模拟数据和模拟执行。 |
+| 在本地运行量化研究 | 按照 [AxonX 快速开始](https://flowllm-ai.github.io/AxonX/zh/getting-started/quickstart)安装，并为研究任务安装相应插件。 |
+| 让编码 Agent 调用研究任务 | 加载 [AxonX Skill](https://github.com/FlowLLM-AI/AxonX/blob/main/skills/axonx/SKILL.md)，再阅读 [Agent 接入指南](https://flowllm-ai.github.io/AxonX/zh/agent/external)。 |
+| 为 MCP 客户端接入金融搜索和数据工具 | 阅读 [Finance-MCP 配置指南](https://github.com/FlowLLM-AI/finance-mcp/blob/main/README_ZH.md)。 |
+| 构建并提供自己的 LLM 工作流服务 | 阅读 [FlowLLM 快速开始](https://github.com/FlowLLM-AI/flowllm/blob/main/docs/zh/quick_start.md)。 |
+
+**最新发布：** [AxonX v0.1.0](https://github.com/FlowLLM-AI/AxonX/releases/tag/v0.1.0)
+（2026 年 10 月 4 日），提供研究 Task、执行跟踪、产物依赖追溯和 Studio。
 
 ## 为什么选择 FlowLLM-AI？
 
@@ -27,8 +41,6 @@
 | **[AxonX](https://github.com/FlowLLM-AI/AxonX)** | 面向 Agent 的量化研究 Harness，提供插件式 Task、可追溯产物和浏览器 Studio。 | [快速开始](https://flowllm-ai.github.io/AxonX/zh/getting-started/quickstart) · [Agent 集成](https://flowllm-ai.github.io/AxonX/zh/agent/external) |
 | **[FlowLLM](https://github.com/FlowLLM-AI/flowllm)** | 配置驱动的 LLM 应用框架，用于组合工作流，并通过 HTTP 或 MCP 提供 Job 服务。 | [快速开始](https://github.com/FlowLLM-AI/flowllm/blob/main/docs/zh/quick_start.md) · [开发 Skill](https://github.com/FlowLLM-AI/flowllm/blob/main/skills/flowllm_dev/SKILL.md) |
 | **[Finance-MCP](https://github.com/FlowLLM-AI/finance-mcp)** | 基于 FlowLLM 的金融研究工具集与 MCP 服务，集成搜索、抓取和金融数据。 | [配置与工具说明](https://github.com/FlowLLM-AI/finance-mcp/blob/main/README_ZH.md) |
-
-**选择你的起点：** 量化实验从 AxonX 开始；金融研究工具从 Finance-MCP 开始；自定义 LLM 应用工作流从 FlowLLM 开始。
 
 ## 项目之间是什么关系？
 
