@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.svg" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
 </p>
 
-<p align="center"><strong>面向 Agent 工作流与金融研究的开源工具。</strong></p>
+<p align="center"><strong>让 Agent 执行可追溯的金融研究。</strong></p>
 
 <p align="center">
   <a href="https://github.com/FlowLLM-AI/AxonX">AxonX</a> ·
@@ -12,7 +12,19 @@
   <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README.md">English</a>
 </p>
 
-我们为开发者和研究者构建工具，将想法转化为可执行的工作流，让 Agent 调用研究能力，并帮助研究者检查结果。
+**AxonX 是我们的主要入口：** 让 Agent 调用量化研究 Task，在 Studio 跟踪执行，
+并在同一工作区检查参数、日志、产物和依赖关系。
+FlowLLM 提供配置驱动的 LLM 应用工作流；Finance-MCP 为 MCP 客户端提供金融研究工具。
+
+## 75 秒了解研究工作流
+
+[![AxonX：Agent 提交任务、Studio 查看执行、检查回测产物](https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/demo/axonx-demo-preview.gif)](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)
+
+**[观看 / 下载完整视频（75 秒，MP4）](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)** · [亲自体验 Studio](https://flowllm-ai.github.io/AxonX/playground/?lang=zh)
+
+视频带中英字幕，无需声音。这是使用公开文档界面与示例 CLI 命令制作的产品流程演示。
+回测画面来自已有研究案例，视频未展示一次新执行的实验。
+[素材来源与生成说明](https://github.com/FlowLLM-AI/.github/blob/main/assets/demo/README.md)。
 
 ## 从这里开始
 
@@ -29,10 +41,10 @@
 
 ## 为什么选择 FlowLLM-AI？
 
-- **构建可复用的工作流。** FlowLLM 通过配置组合 Job、Step 和 Component，并通过 HTTP 或 MCP 提供服务。
-- **为 Agent 提供研究工具。** Finance-MCP 将网页搜索、抓取和金融数据工具接入 MCP 客户端。
-- **让量化研究可追溯。** AxonX 在数据处理、因子分析、训练、预测和回测过程中记录任务参数、日志、产物和依赖关系。
-- **使用适合你的交互方式。** AxonX 提供 CLI、HTTP、MCP 和 Studio，共享同一研究工作区，并通过插件扩展研究 Task。
+- **Agent 执行，研究者检查。** AxonX 通过 CLI 和 MCP 提供研究 Task，Studio 展示执行记录与结果。
+- **研究证据可追溯。** 在 ETL、训练、预测和回测过程中保留任务参数、日志、产物和上游依赖。
+- **研究方法可扩展。** 通过独立安装的 AxonX 插件增加研究方法，显式声明 Task 输入和输出。
+- **按用途选择工具。** FlowLLM 用于组合和提供 LLM 工作流服务；Finance-MCP 将金融搜索与数据工具接入 MCP 客户端。
 
 ## 探索我们的项目
 

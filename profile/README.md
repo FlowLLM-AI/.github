@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.svg" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
 </p>
 
-<p align="center"><strong>Open-source tools for agent workflows and financial research.</strong></p>
+<p align="center"><strong>Let agents run traceable financial research.</strong></p>
 
 <p align="center">
   <a href="https://github.com/FlowLLM-AI/AxonX">AxonX</a> ·
@@ -12,8 +12,19 @@
   <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README_ZH.md">简体中文</a>
 </p>
 
-We build tools for developers and researchers to turn ideas into executable workflows,
-connect agents to research capabilities, and inspect the results.
+**AxonX is our main entry point:** connect your agent to quantitative research Tasks,
+follow execution in Studio, and inspect parameters, logs, artifacts, and dependencies in one workspace.
+FlowLLM provides configurable LLM application workflows; Finance-MCP provides financial research tools for MCP clients.
+
+## Watch the 75-second walkthrough
+
+[![AxonX: agent submission, Studio execution, and backtest inspection](https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/demo/axonx-demo-preview.gif)](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)
+
+**[Watch / download the full video (75s, MP4)](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)** · [Try Studio yourself](https://flowllm-ai.github.io/AxonX/playground/?lang=en)
+
+Captioned in English and Chinese; sound is not required. This illustrated product walkthrough uses public
+documentation screens and example CLI commands. The backtest screen is an existing research example;
+the video does not show a newly executed experiment. [Sources and reproduction](https://github.com/FlowLLM-AI/.github/blob/main/assets/demo/README.md).
 
 ## Start here
 
@@ -30,10 +41,10 @@ connect agents to research capabilities, and inspect the results.
 
 ## Why FlowLLM-AI?
 
-- **Build reusable workflows.** FlowLLM composes configurable Jobs, Steps, and Components and exposes them through HTTP or MCP.
-- **Give agents research tools.** Finance-MCP brings web search, crawling, and financial data tools to MCP clients.
-- **Make quantitative research traceable.** AxonX records task parameters, logs, artifacts, and dependencies across data processing, factor analysis, training, prediction, and backtesting.
-- **Work through your preferred interface.** AxonX offers CLI, HTTP, MCP, and Studio access to the same research workspace, with plugins for extending research Tasks.
+- **Agent execution you can inspect.** AxonX exposes research Tasks through CLI and MCP, while Studio shows execution records and results.
+- **Traceable research evidence.** Keep task parameters, logs, artifacts, and upstream dependencies across ETL, training, prediction, and backtesting.
+- **Research methods you can extend.** Add independently installed AxonX plugins with explicit Task inputs and outputs.
+- **Tools for different jobs.** Use FlowLLM to compose and serve LLM workflows, or Finance-MCP to connect financial search and data tools to MCP clients.
 
 ## Explore our projects
 

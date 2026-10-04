@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="243.2" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-<title id="title">FlowLLM-AI — Agent workflows and financial research</title>
+<title id="title">FlowLLM-AI — Let agents run traceable financial research</title>
 <desc id="desc">FlowLLM for application workflows, Finance-MCP for research tools, and AxonX for quantitative research.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1022"/><stop offset="1" stop-color="#142646"/></linearGradient>
@@ -12,8 +12,8 @@
 </g>
 <g font-family="Arial, Helvetica, sans-serif">
 <text x="220" y="100" font-size="51" font-weight="700" fill="#f8fafc">FlowLLM-AI</text>
-<text x="223" y="144" font-size="24" fill="#cbd5e1">Agent workflows. Financial research. Traceable results.</text>
-<text x="223" y="181" font-size="17" fill="#91a9c9">Open-source tools for developers, agents, and researchers.</text>
+<text x="223" y="144" font-size="27" fill="#cbd5e1">Let agents run traceable financial research.</text>
+<text x="223" y="181" font-size="17" fill="#91a9c9">Start with AxonX. Execute tasks. Inspect evidence.</text>
 <rect x="64" y="237" width="336" height="95" rx="15" fill="#14243c" stroke="#2c4264"/>
 <rect x="432" y="237" width="336" height="95" rx="15" fill="#14243c" stroke="#2c4264"/>
 <rect x="800" y="237" width="336" height="95" rx="15" fill="#14243c" stroke="#2c4264"/>
