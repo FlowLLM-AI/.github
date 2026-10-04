@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" role="img" aria-label="AxonX">
 <title>AxonX</title>
-<rect width="90" height="28" rx="6" fill="#2159dd"/>
-<path d="M6 0h24v28H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6" fill="#1746b3"/>
-<g fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="m10 9-4 5 4 5m8-10 4 5-4 5m-3-12-2 14"/></g>
-<text x="60.0" y="18.5" text-anchor="middle" font-family="Arial,Helvetica,Noto Sans,sans-serif" font-size="13" fill="#fff">AxonX</text>
+<rect x="0.5" y="0.5" width="89" height="27" rx="5.5" fill="#eff6ff" stroke="#c6dcf8"/>
+<g fill="none" stroke="#2563b5" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="m10 9-4 5 4 5m8-10 4 5-4 5m-3-12-2 14"/></g>
+<text x="60.0" y="18.5" text-anchor="middle" font-family="Arial,Helvetica,Noto Sans,sans-serif" font-size="13" fill="#2563b5">AxonX</text>
 </svg>
