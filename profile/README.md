@@ -5,11 +5,11 @@
 <p align="center"><strong>Let agents run traceable financial research.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/308887bd066da38e3a998a467e586fe8d68b0e86/assets/badges/axonx.svg" alt="AxonX" height="28" /></a>
-  <a href="https://flowllm-ai.github.io/AxonX/en/"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/308887bd066da38e3a998a467e586fe8d68b0e86/assets/badges/docs-en.svg" alt="Documentation" height="28" /></a>
-  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=en"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/308887bd066da38e3a998a467e586fe8d68b0e86/assets/badges/studio-en.svg" alt="Try Studio" height="28" /></a>
-  <a href="https://github.com/FlowLLM-AI/AxonX/discussions"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/308887bd066da38e3a998a467e586fe8d68b0e86/assets/badges/community-en.svg" alt="Community" height="28" /></a>
-  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README_ZH.md"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/308887bd066da38e3a998a467e586fe8d68b0e86/assets/badges/language-en.svg" alt="简体中文" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/a03800c7255c3b183a0d929e0d6680bee3059b80/assets/badges/axonx.svg" alt="AxonX" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/en/"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/a03800c7255c3b183a0d929e0d6680bee3059b80/assets/badges/docs-en.svg" alt="Documentation" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=en"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/a03800c7255c3b183a0d929e0d6680bee3059b80/assets/badges/studio-en.svg" alt="Try Studio" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/AxonX/discussions"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/a03800c7255c3b183a0d929e0d6680bee3059b80/assets/badges/community-en.svg" alt="Community" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README_ZH.md"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/a03800c7255c3b183a0d929e0d6680bee3059b80/assets/badges/language-en.svg" alt="简体中文" height="28" /></a>
 </p>
 
 **AxonX is our main entry point:** connect your agent to quantitative research Tasks,
