@@ -1,30 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.svg" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
+  <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.png" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
 </p>
 
 <p align="center"><strong>Let agents run traceable financial research.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/FlowLLM-AI/AxonX">AxonX</a> ·
-  <a href="https://flowllm-ai.github.io/AxonX/en/">Documentation</a> ·
-  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=en">Try AxonX Studio</a> ·
-  <a href="https://github.com/FlowLLM-AI/AxonX/discussions">Community</a> ·
-  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README_ZH.md">简体中文</a>
+  <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/axonx.svg" alt="AxonX" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/en/"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/docs-en.svg" alt="Documentation" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=en"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/studio-en.svg" alt="Try Studio" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/AxonX/discussions"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/community-en.svg" alt="Community" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README_ZH.md"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/language-en.svg" alt="简体中文" height="28" /></a>
 </p>
 
 **AxonX is our main entry point:** connect your agent to quantitative research Tasks,
 follow execution in Studio, and inspect parameters, logs, artifacts, and dependencies in one workspace.
 FlowLLM provides configurable LLM application workflows; Finance-MCP provides financial research tools for MCP clients.
-
-## Watch the 75-second walkthrough
-
-[![AxonX: agent submission, Studio execution, and backtest inspection](https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/demo/axonx-demo-preview.gif)](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)
-
-**[Watch / download the full video (75s, MP4)](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)** · [Try Studio yourself](https://flowllm-ai.github.io/AxonX/playground/?lang=en)
-
-Captioned in English and Chinese; sound is not required. This illustrated product walkthrough uses public
-documentation screens and example CLI commands. The backtest screen is an existing research example;
-the video does not show a newly executed experiment. [Sources and reproduction](https://github.com/FlowLLM-AI/.github/blob/main/assets/demo/README.md).
 
 ## Start here
 

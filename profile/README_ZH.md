@@ -1,30 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.svg" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
+  <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.png" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
 </p>
 
 <p align="center"><strong>让 Agent 执行可追溯的金融研究。</strong></p>
 
 <p align="center">
-  <a href="https://github.com/FlowLLM-AI/AxonX">AxonX</a> ·
-  <a href="https://flowllm-ai.github.io/AxonX/zh/">文档</a> ·
-  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=zh">体验 AxonX Studio</a> ·
-  <a href="https://github.com/FlowLLM-AI/AxonX/discussions">社区交流</a> ·
-  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README.md">English</a>
+  <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/axonx.svg" alt="AxonX" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/zh/"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/docs-zh.svg" alt="文档" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=zh"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/studio-zh.svg" alt="体验 Studio" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/AxonX/discussions"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/community-zh.svg" alt="社区" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README.md"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/language-zh.svg" alt="English" height="28" /></a>
 </p>
 
 **AxonX 是我们的主要入口：** 让 Agent 调用量化研究 Task，在 Studio 跟踪执行，
 并在同一工作区检查参数、日志、产物和依赖关系。
 FlowLLM 提供配置驱动的 LLM 应用工作流；Finance-MCP 为 MCP 客户端提供金融研究工具。
-
-## 75 秒了解研究工作流
-
-[![AxonX：Agent 提交任务、Studio 查看执行、检查回测产物](https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/demo/axonx-demo-preview.gif)](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)
-
-**[观看 / 下载完整视频（75 秒，MP4）](https://github.com/FlowLLM-AI/.github/raw/refs/heads/main/assets/demo/axonx-75s.mp4)** · [亲自体验 Studio](https://flowllm-ai.github.io/AxonX/playground/?lang=zh)
-
-视频带中英字幕，无需声音。这是使用公开文档界面与示例 CLI 命令制作的产品流程演示。
-回测画面来自已有研究案例，视频未展示一次新执行的实验。
-[素材来源与生成说明](https://github.com/FlowLLM-AI/.github/blob/main/assets/demo/README.md)。
 
 ## 从这里开始
 
