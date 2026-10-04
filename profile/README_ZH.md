@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-logo.png" alt="FlowLLM-AI" width="96" />
+  <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.svg" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
 </p>
-
-<h1 align="center">FlowLLM-AI</h1>
 
 <p align="center"><strong>面向 Agent 工作流与金融研究的开源工具。</strong></p>
 
 <p align="center">
   <a href="https://flowllm-ai.github.io/AxonX/zh/">AxonX 文档</a> ·
   <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=zh">体验 AxonX Studio</a> ·
+  <a href="https://github.com/FlowLLM-AI/AxonX/discussions">社区交流</a> ·
   <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README.md">English</a>
 </p>
 
@@ -31,6 +30,12 @@
 
 **选择你的起点：** 量化实验从 AxonX 开始；金融研究工具从 Finance-MCP 开始；自定义 LLM 应用工作流从 FlowLLM 开始。
 
+## 项目之间是什么关系？
+
+- **FlowLLM → Finance-MCP：** Finance-MCP 使用 FlowLLM 组合金融研究工具并提供服务。
+- **AxonX：** 量化研究 Harness，提供自己的 Task 与产物契约，通过 CLI / HTTP / MCP / Studio 运行实验和检查结果。
+- **Agent 与开发者：** 根据任务选择工具。Finance-MCP 与 AxonX 提供不同的研究能力，无需部署成一套系统即可分别使用。
+
 ## 体验 AxonX Studio
 
 打开 [浏览器 Playground](https://flowllm-ai.github.io/AxonX/playground/?lang=zh)，通过**模拟数据和模拟执行**体验界面，无需在本地安装。
@@ -44,8 +49,24 @@
 实际研究请按照 [AxonX 快速开始](https://flowllm-ai.github.io/AxonX/zh/getting-started/quickstart)部署。
 研究插件需单独安装；行情数据和模型服务可能需要 API 凭据。
 
+## 查看 Agent 驱动的研究案例
+
+**Alpha158 Enhanced** 展示了编码 Agent 如何开发独立研究插件，通过 AxonX 执行
+ETL → 训练 → 预测 → 回测，并比较基线与锁定的特征配置。
+
+先阅读 [案例概览](https://github.com/FlowLLM-AI/AxonX/blob/main/README_ZH.md#benchmark-agent-%E5%BC%80%E5%8F%91%E5%B8%82%E5%9C%BA%E6%A8%AA%E6%88%AA%E9%9D%A2%E5%A2%9E%E5%BC%BA%E7%89%B9%E5%BE%81)，
+再查看 [复现指南](https://github.com/FlowLLM-AI/AxonX/blob/main/plugins/a158_enhanced/README_ZH.md)
+和 [完整实验结果](https://github.com/FlowLLM-AI/AxonX/blob/main/plugins/a158_enhanced/EXPERIMENT_RESULTS.md)。
+报告包含筛选与确认窗口、不同持仓数量的对比和不确定性分析。确认期改善未覆盖所有持仓数量，
+日配对增量的 95% 区间均包含零，尚不能证明收益稳定提升。
+
+如果希望让编码 Agent 参与自己的研究，从
+[AxonX Skill](https://github.com/FlowLLM-AI/AxonX/blob/main/skills/axonx/SKILL.md)
+和 [外部 Agent 指南](https://flowllm-ai.github.io/AxonX/zh/agent/external)开始。
+
 ## 参与共建
 
-- **使用问题、缺陷或建议：** 在对应项目提交 Issue：[AxonX](https://github.com/FlowLLM-AI/AxonX/issues)、[FlowLLM](https://github.com/FlowLLM-AI/flowllm/issues)、[Finance-MCP](https://github.com/FlowLLM-AI/finance-mcp/issues)。
+- **社区交流与使用帮助：** 进入 [GitHub Discussions](https://github.com/FlowLLM-AI/AxonX/discussions)，在 [Q&A](https://github.com/FlowLLM-AI/AxonX/discussions/categories/q-a) 提问，在 [Ideas](https://github.com/FlowLLM-AI/AxonX/discussions/categories/ideas) 分享建议，在 [Show and tell](https://github.com/FlowLLM-AI/AxonX/discussions/categories/show-and-tell) 展示案例。欢迎中英文交流。
+- **缺陷报告与具体功能请求：** 在对应项目提交 Issue：[AxonX](https://github.com/FlowLLM-AI/AxonX/issues)、[FlowLLM](https://github.com/FlowLLM-AI/flowllm/issues)、[Finance-MCP](https://github.com/FlowLLM-AI/finance-mcp/issues)。
 - **贡献代码与内容：** 改进文档、开发研究插件或工具、修复缺陷。先阅读 [AxonX 贡献指南](https://github.com/FlowLLM-AI/AxonX/blob/main/CONTRIBUTING_ZH.md)或 [FlowLLM 贡献指南](https://github.com/FlowLLM-AI/flowllm/blob/main/docs/zh/contributing.md)。
 - **关注进展：** 为你使用的项目点 Star，并通过 Watch 关注仓库更新。
