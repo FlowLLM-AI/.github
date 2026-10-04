@@ -5,11 +5,11 @@
 <p align="center"><strong>让 Agent 执行可追溯的金融研究。</strong></p>
 
 <p align="center">
-  <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/axonx.svg" alt="AxonX" height="28" /></a>
-  <a href="https://flowllm-ai.github.io/AxonX/zh/"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/docs-zh.svg" alt="文档" height="28" /></a>
-  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=zh"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/studio-zh.svg" alt="体验 Studio" height="28" /></a>
-  <a href="https://github.com/FlowLLM-AI/AxonX/discussions"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/community-zh.svg" alt="社区" height="28" /></a>
-  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README.md"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/language-zh.svg" alt="English" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/axonx.svg?v=308887b" alt="AxonX" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/zh/"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/docs-zh.svg?v=308887b" alt="文档" height="28" /></a>
+  <a href="https://flowllm-ai.github.io/AxonX/playground/?lang=zh"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/studio-zh.svg?v=308887b" alt="体验 Studio" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/AxonX/discussions"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/community-zh.svg?v=308887b" alt="社区" height="28" /></a>
+  <a href="https://github.com/FlowLLM-AI/.github/blob/main/profile/README.md"><img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/badges/language-zh.svg?v=308887b" alt="English" height="28" /></a>
 </p>
 
 **AxonX 是我们的主要入口：** 让 Agent 调用量化研究 Task，在 Studio 跟踪执行，
