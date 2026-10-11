@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/FlowLLM-AI/AxonX">
-    <img src="https://raw.githubusercontent.com/FlowLLM-AI/AxonX/main/axonx_studio/public/axonx-logo.svg" alt="AxonX" width="560" />
-  </a>
+  <img src="https://raw.githubusercontent.com/FlowLLM-AI/.github/main/assets/flowllm-banner.png" alt="FlowLLM-AI: AxonX, FlowLLM, and Finance-MCP" width="1200" />
 </p>
 
 <p align="center"><strong>从研究 Prompt 到量化代码，再到可追溯的实验。</strong></p>
